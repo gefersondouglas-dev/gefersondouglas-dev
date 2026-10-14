@@ -1,31 +1,14 @@
-# 🧑🏻‍💻 Geferson Douglas
-
+# Hey, I'm Geferson! 👋🏼
 **`Developer`**
 
-Hey, I'm Geferson! 👋🏼
+I'm a Software Engineering student with a strong interest in technology, software development, and the future of AI. I'm currently learning web development and building projects to put my knowledge into practice.  
 
-I'm a Software Engineering student with a strong interest in technology, software development, and the future of AI. I'm currently learning web development and building projects to put my knowledge into practice. I believe technology and artificial intelligence will continue to shape the way we live and work, and I want to be part of that evolution by creating useful solutions, continuously improving my skills, and staying curious about what's next.
+I believe technology and artificial intelligence will continue to shape the way we live and work, and I want to be part of that evolution by creating useful solutions, continuously improving my skills, and staying curious about what's next.  
 
-<p align="left">
-    <a href="https://github.com/gefersondouglas-dev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Stars" 
-            title="Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gefersondouglas-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
-        />
-    </a>
-    <a href="https://github.com/gefersondouglas-dev?tab=followers">
-        <img 
-            alt="followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gefersondouglas-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
-### 🤖 Languages ​​and technologies
+## 🤖 Languages ​​and technologies
 
 <img 
     align="left" 
@@ -121,7 +104,26 @@ I'm a Software Engineering student with a strong interest in technology, softwar
 <br/>
 <br/>
 
-### 📊 Statistics
+**Frontend Development**
+- HTML5 | CSS3 | JavaScript | TypeScript
+- React.js | Bootstrap | jQuery
+
+**Backend Development**
+- Node.js | PHP | Python
+
+**Tools & Version Control**
+- Git | GitHub | VS Code
+
+**Core Skills**
+- Responsive Web Design | Web Development Fundamentals
+- Problem-Solving | Continuous Learning
+
+**Currently Learning**
+- TypeScript | React.js | Node.js | Bootstrap | PHP | jQuery | Python
+
+---
+
+## 📊 Statistics
 
 <p>
   <img 
